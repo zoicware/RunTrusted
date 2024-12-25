@@ -1,3 +1,7 @@
+
+# Moved to github.com/zoicware/zScripts
+
+---
 ## Run Trusted
 
 #### How it Works
